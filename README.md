@@ -1,11 +1,11 @@
 
 # Projeto: Reconhecimento/Identificação Facial Local
 
-#Diogo Julio - RM553837
-Vinicius Silva - RM553240
-Victor Didoff - RM552965
-Matheus Zottis - RM94119
-Jonata Rafael - RM552939
+/Diogo Julio - RM553837/
+/Vinicius Silva - RM553240/
+/Victor Didoff - RM552965/
+/Matheus Zottis - RM94119/
+/Jonata Rafael - RM552939/
 
 ## Objetivo
 Aplicação local (desktop/notebook) que realiza detecção e identificação facial usando OpenCV (Haar Cascade + LBPH).  
