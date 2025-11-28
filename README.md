@@ -52,3 +52,7 @@ face_id_project/
 
 ## Nota ética
 Vide arquivo *ethics.md*.
+
+## LINK DO VIDEO
+https://drive.google.com/file/d/1u8XajAdDocYyNi2a_wrNWYVuOZzhF33S/view?usp=sharing
+
